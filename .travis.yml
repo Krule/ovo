@@ -1,3 +1,6 @@
+# No language, binary provided
+language: generic
+
 # Clean and don't fail
 install:
   - rm -rf public || exit 0

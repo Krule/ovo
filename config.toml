@@ -1,4 +1,4 @@
-baseURL = "https://ovo.ba/"
+baseURL = "http://ovo.ba/"
 languageCode = "en-us"
 title = "OvO"
 theme = "ananke"
